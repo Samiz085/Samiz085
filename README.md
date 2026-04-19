@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samiz085
 - 👀 I’m interested in coding , hack & security 
-- 🌱 I’m currently learning python , html , css , hack & security , ... 
+- 🌱 I’m currently learning python , ML , hack & security , ... 
 - 💞️ I’m working on youtube channel
 - 🧑‍💻 I love Coding for ever
 
